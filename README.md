@@ -4,7 +4,7 @@ This projest was intented to deliver as a freelance project but has been cancele
 
 ## About
 
-It is a mobile application which users can perform any common action relavent to hostpial appointments.
+It is a mobile application which users can perform any common action relevant to hospital appointments.
 
 ### Main Features
 
