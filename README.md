@@ -1,16 +1,26 @@
-# hospital
+# Hospital Mobile App
 
-A new Flutter project.
+This projest was intented to deliver as a freelance project but has been canceled by the client. Now, source code is here.
 
-## Getting Started
+## About
 
-This project is a starting point for a Flutter application.
+It is a mobile application which users can perform any common action relavent to hostpial appointments.
 
-A few resources to get you started if this is your first Flutter project:
+### Main Features
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+ - See the hospital news.
+ - Search polyclinics.
+ - Search doctors.
+ - Take/cancel/see appointments.
+ - Multi language support.
+ - See hospital locations.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Tech
+
+During the development, there was and Oracle Database storing all needed data. That's why app communicates with a rest api written in Flask.
+
+App <--> Rest Api <--> Oracle DB
+
+You can reach the REST API [here](https://github.com/gorkemunuvar/Hostpital-Rest-Api/tree/main). 
+
+Mainly MVC pattern is followed and GetX package is used for state management(not proud of it).
