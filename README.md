@@ -1,6 +1,6 @@
 # Hospital Mobile App
 
-This projest was intented to deliver as a freelance project but has been canceled by the client. Now, source code is here.
+This project was intented to deliver as a freelance project but has been canceled by the client. Now, source code is here.
 
 ## About
 
